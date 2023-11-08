@@ -1,4 +1,5 @@
+#assigned a message to a variable
 message = "hello, user"
-print(message)
-message = "hello again, user"
-print(message)
+print(message) #print the message
+message = "hello again, user" #chaned the value
+print(message)#print 2nd value
