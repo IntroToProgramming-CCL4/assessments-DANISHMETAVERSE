@@ -1,3 +1,4 @@
+#infinite loop
 word = input('Enter word:')
 while True:
     if word == word:
