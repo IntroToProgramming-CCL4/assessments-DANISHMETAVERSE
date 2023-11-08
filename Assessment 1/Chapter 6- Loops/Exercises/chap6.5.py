@@ -1,7 +1,8 @@
+#print a message saying the deli has run out of pastrami
 print ("Pastrami is out of stock")
 sandwich_orders = ['Swap sandwich','club sandwtich', 'plain sandwich', 'rueben sandwich', 'bánh mì', 'pastrami', 'pastrami', 'pastrami' ] 
 while 'Pastrami' in sandwich_orders:
-    sandwich_orders.remove('Pastrami')
+    sandwich_orders.remove('Pastrami') #then use a while loop to remove all
 finished_sandwiches =[]
 
 while sandwich_orders:
