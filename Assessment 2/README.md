@@ -3,7 +3,7 @@ cart = []
 money = int(input('Insert Money: '))
 print('Current Balance: $', money)
 
-# MENU OF ITEMS BELOW
+ # MENU OF ITEMS BELOW
 brand = {'A1': ['Banana\t', '1.0'], 'B1': ['Apple\t', '1.3'], 'C1': ['kiwi\t', '2.0'], 'D1': ['Avocado', '3.2'],
          'E1': ['Mango\t', '2.3'], 'F1': ['Pineapple', '1.4'], 'G1': ['Strawberry', '1.1']}
 
